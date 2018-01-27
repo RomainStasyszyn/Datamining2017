@@ -1,6 +1,7 @@
 # Datamining2017
 Projet pour le cours de fouille de données dont le but est d'effectuer des analyses statistiques
-afin de prédire le résultat d'un match de Counter-Strike : Global Offensive opposant deux équipes données.
+afin de prédire le résultat d'un match de Counter-Strike : Global Offensive opposant deux équipes données en se
+basant uniquement sur les résultats de chaque rencontres antérieur de tous les couples d'équipes qui se sont combattus.
 
 OBJECTIF :
 	L'objectif de sera d'analyser les données récupérées sur le site Kaggle afin de dresser des statistiques ainsi que des pronostiques
@@ -48,4 +49,9 @@ SITES ET DOCUMENTS D'INSPIRATION :
 	Udacity - Intro to Data Analysis.
 	Udacity - Intro to Descriptive Statistics.
 	Udacity - Intro to Inferential Statistics.
+
+RESULTATS :
+	Il s'avère que la précision des prédictions n'est pas si élevée que ça du fait que l'on se base sur des résultats de matchs durant lesquels de
+	nombreux paramètres entrent en considération, de plus nous ne prenons pas en compte les victoires haut la main ou les victoires très sérrées.
+	Comme quoi même de petites informations pointues peuvent apporter beaucoup d'information utiles.
 
